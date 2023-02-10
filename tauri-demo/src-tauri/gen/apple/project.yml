@@ -11,8 +11,8 @@ settingGroups:
   app:
     base:
       PRODUCT_NAME: tauri-demo
-      PRODUCT_BUNDLE_IDENTIFIER: com.tauri.tauri-demo
-      DEVELOPMENT_TEAM: B7SQ33YJ34
+      PRODUCT_BUNDLE_IDENTIFIER: com.myorg.tauri-demo
+      DEVELOPMENT_TEAM: XXX
 targetTemplates:
   app:
     type: application
