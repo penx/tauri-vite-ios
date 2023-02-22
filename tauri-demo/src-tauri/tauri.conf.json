@@ -1,8 +1,8 @@
 {
   "build": {
-    "beforeDevCommand": "trunk serve",
-    "beforeBuildCommand": "trunk build",
-    "devPath": "http://localhost:1420",
+    "beforeBuildCommand": "yarn build",
+    "beforeDevCommand": "yarn dev --host",
+    "devPath": "http://localhost:5173",
     "distDir": "../dist",
     "withGlobalTauri": true
   },

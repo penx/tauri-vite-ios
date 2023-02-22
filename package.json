@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": [
+    "tauri-demo"
+  ],
+  "devDependencies": {
+    "prettier": "2.8.0"
+  },
+  "packageManager": "yarn@3.4.1"
+}
